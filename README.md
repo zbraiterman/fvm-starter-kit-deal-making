@@ -1,5 +1,5 @@
 # Introduction
-Welcome to the fevm deal making kit! This kit has several tools to help enable you make storage deals on the Filecoin network via Solidity smart contracts. This kit assumes some knowledge at interacting with the Filecoin Virtual Machine (FVM). If you are new to the FVM, you may want to start with these starter kits instead:
+Welcome to the FEVM deal making kit! This kit has several tools to help enable you make storage deals on the Filecoin network via Solidity smart contracts. This kit assumes some knowledge at interacting with the Filecoin Virtual Machine (FVM). If you are new to the FVM, you may want to start with these starter kits instead:
 
 * [FEVM Hardhat Starter Kit](https://github.com/filecoin-project/fevm-hardhat-kit)
 * [FEVM Foundry Starter Kit](https://github.com/filecoin-project/fevm-foundry-kit)
